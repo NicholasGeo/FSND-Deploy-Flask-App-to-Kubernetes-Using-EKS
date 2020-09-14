@@ -17,6 +17,9 @@ _mailinglist
 docs/_build/
 __pycache__
 .env_file
+tmp/
+trust.json
+
 
 # Coverage reports
 htmlcov/
@@ -27,4 +30,3 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
-
